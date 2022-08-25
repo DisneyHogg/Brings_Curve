@@ -1,5 +1,5 @@
 # Bring's Curve
-Jupyter notebooks giving calculations from the paper *Bring's Curve: Old and New* by H. W. Braden and Linden Disney-Hogg.
+This repository contains Jupyter notebooks giving calculations from the paper *Bring's Curve: Old and New* by H. W. Braden and Linden Disney-Hogg. The notebooks are split and named according to the relevant subsections of the paper. 
 
 ## Requirements
 * [Sage](https://www.sagemath.org/) at least 9.4
